@@ -4,6 +4,7 @@ body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     line-height: 2;
+    overflow-x: hidden;
 }
 h1{
     width:20%;
